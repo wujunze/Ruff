@@ -1,0 +1,24 @@
+{
+    "sessions": {
+        "ruffd/lan/3044a10009b4": {
+            "board": "ruff-mbd-v1",
+            "name": "jason",
+            "sn": "R0101242",
+            "mac": "30:44:a1:00:09:b4",
+            "address": "172.16.9.154",
+            "token": "2b877b4b825b48a9a0950dd5bd1f264d"
+        }
+    },
+    "active": "ruffd/lan/3044a10009b4",
+    "ruff": {
+        "sessions": [
+            {
+                "name": "ruffd/lan/3044a10009b4",
+                "board": "ruff-mbd-v1",
+                "isActive": true,
+                "address": "172.16.9.154",
+                "token": "2b877b4b825b48a9a0950dd5bd1f264d"
+            }
+        ]
+    }
+}

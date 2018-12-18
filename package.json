@@ -1,0 +1,13 @@
+{
+    "name": "panda",
+    "version": "0.1.0",
+    "description": "panda ruff demo",
+    "author": "panda",
+    "main": "src/index.js",
+    "ruff": {
+        "dependencies": {
+            "button-gpio": "^2.0.9"
+        },
+        "version": 1
+    }
+}
